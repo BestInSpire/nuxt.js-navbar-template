@@ -43,6 +43,5 @@ export default {
   layoutTransition: {
     name: "my-layouts",
     mode: "out-in",
-  },
-  script: ["~/assets/script.js"],
+  }
 };
